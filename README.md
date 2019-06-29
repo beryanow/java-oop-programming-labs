@@ -1,4 +1,4 @@
-NSU OOP Programming Labs (Java)
+# NSU OOP Programming Labs (Java)
 
 Fourth term:
 
