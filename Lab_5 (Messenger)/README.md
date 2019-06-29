@@ -1,3 +1,3 @@
-# Задача 5. Чат.
+# Task 5. Messenger.
 
-Задача написать чат (клиент / сервер по протоколу TCP/IP). Использовать графический интерфейс. Выполнить две версии: простая сериализация / XML.
+The task is about making a messenger(client / server using TCP/IP). Graphics must be used. Two versions must be created: serialization / XML.

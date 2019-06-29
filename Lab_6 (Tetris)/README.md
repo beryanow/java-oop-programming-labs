@@ -1,3 +1,3 @@
-# Задача 6. Тетрис.
+# Task 6. Tetris.
 
-Задача написать тетрис. Использовать графический интерфейс. Управление происходит через клавиши клавитуры.
+The task is about creating a tetris. Use graphical interface (Swing / JavaFX). Control motions using keyboard keys.

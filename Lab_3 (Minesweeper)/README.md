@@ -1,3 +1,3 @@
-# Задача 3. Сапёр.
+# Task 3. Minesweeper.
 
-Написать аналог игры Сапёр. Программа должна иметь два интерфейса - текстовый и графический.
+The task is about writing an analogy to Minesweeper Game. The program should consist of two interfaces - text / graphics.

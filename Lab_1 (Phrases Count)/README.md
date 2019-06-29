@@ -1,3 +1,3 @@
-# Задача 1. Подсчёт фраз.
+# Task 1. Phrase Count.
 
-Задача разбить заданный текст на фразы подсчитать количество раз, которое встречается каждая фраза, вывести фразы, которые встречаются более одного раза (или указанного количества раз) в порядке убывания частоты встречаемости.
+The task is about dividing the text given into phrases, counting how many times each phrase is located in the text, and also showing phrases that can be meeted more than once (or any number of times) in decreasing order of their meeting-times.

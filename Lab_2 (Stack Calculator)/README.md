@@ -1,3 +1,3 @@
-# Задача 2. Стековый язык программирования.
+# Task 2. Stack Calculator.
 
-Реализовать стековый калькулятор с арифметическими операциями над целыми числами. Из стекового калькулятора можно сделать полноценный (полный по Тьюрингу) язык программирования, если добавить в него циклы и условные переходы, а также несколько специальных команд (функций). Программа должна правильно обрабатывать вложенные циклы.
+The task is about creating a calculator with arithmetical operations over integers. Also, you can add cycles and conditions into the calculator, together with special commands. Therefore, the calculator will be a full programming language. The program should work with inner cycles in a right way.

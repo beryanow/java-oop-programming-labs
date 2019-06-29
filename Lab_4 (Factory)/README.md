@@ -1,3 +1,3 @@
-# Задача 4. Фабрика.
+# Task 4. Factory.
 
-Написать приложение, эмулирующее работу фабрики по сборке автомашин. Машина состоит из 3-х частей: кузов, двигатель и аксессуары. Машину нужно собрать и отвезти на склад, откуда она поступает дилерам. Использовать многопоточное программирование.
+The task is bout writing a program emulating factory actions: transforming car motors, bodies, accessories into cars and then pushing them into dealers. You must use parallelism (Threads).
